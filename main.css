@@ -1,3 +1,7 @@
+@font-face {
+	font-family:Oleo Script Swash Caps; src: url("OleoScriptSwashCaps-Bold.ttf")
+}  
+
 html, body {
   height: 100%;
 }
