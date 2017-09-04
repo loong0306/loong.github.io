@@ -1,2 +1,2 @@
 # loong.moe
-萌龙 : 可爱的男孩子 : JAVA开发工程师
+萌龙（Moe.Loong） ~ 一只可爱的男孩子
